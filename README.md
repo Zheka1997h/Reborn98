@@ -43,4 +43,4 @@
 ### 1️⃣ Клонирование репозитория
 
 ```bash
-git clone https://github.com/Zheka1997h/Magnat_Shashta.git
+https://github.com/zheka1997h/magnat_game.git 
